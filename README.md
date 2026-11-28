@@ -1,4 +1,4 @@
-I work in manufacturing and robotics. Outside of day-to-day operations, I approach AI as a product builder—interested in both industrial automation and what a post-attention-economy wave of personal technology can look like.
+I work in manufacturing and robotics, and I approach AI with a product mindset. I'm interested in both industrial automation and what a post-attention-economy wave of personal technology can look like.
 
 #### Themes I Keep Coming Back To
 - **AI in Manufacturing & Automation** — practical systems where perception and software meet the physical world
